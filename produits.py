@@ -22,3 +22,4 @@ def afficher_produits():
 
     for prod in produits:
         print(prod)
+print("Ceci est un test")
